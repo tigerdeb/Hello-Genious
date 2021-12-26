@@ -1,2 +1,2 @@
-# Hello-Genious
+# Hello-Genius
 Practice
